@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My suite">
+	<!--
+	Example of a global parameter that applies to ALL the tests within this suite
+	<parameter name="name" value="value"/>
+	-->
+	<test name="Test">
+		<!--
+		Example of a local parameters that applies only to the test in which is included
+		<parameter name="localVariableName" value="value"/>
+		-->
+		<classes>
+			<class name="tests.LoginAppTest"/>
+		</classes>
+	</test>
+
+	<!--TEMPLATE CLASS
+	<test name="Test">
+		<classes>
+			<class name="tests.MyAwesomeNewTest"/>
+		</classes>
+	</test>
+	-->
+</suite> 

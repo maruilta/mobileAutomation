@@ -1,0 +1,9 @@
+{
+	"deviceName": "pixel 3",
+	"platformName": "Android",
+	"platformVersion": "10",
+	"appPackage": "com.disney.wdpro.dlr",
+	"appActivity": "com.disney.wdpro.park.activities.LoaderActivity",
+	"app": "/Users/d.montoya/Projects/TAE-Academy/mobile/Disneyland.apk",
+	"automationName": "UiAutomator2"
+}

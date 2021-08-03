@@ -1,0 +1,8 @@
+
+{
+	"app": "C:\\Users\\marina.caviola\\Documents\\Academy\\@Mobile\\Mobile\\trivago.apk",
+	"deviceName": "emulator-5554",
+	"platformName": "android",
+	"appPackage": "com.trivago",
+	"appActivity": "com.trivago.ft.main.frontend.MainActivity"
+}
